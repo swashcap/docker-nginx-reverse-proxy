@@ -6,7 +6,8 @@
   "scripts": {
     "build": "tsc",
     "start": "node lib/index.js",
-    "prettier": "prettier --write '*.js' 'src/**/*.ts'"
+    "prettier": "prettier --write '*.js' 'src/**/*.ts'",
+    "test": "./scripts/test.sh"
   },
   "keywords": [],
   "author": "",
